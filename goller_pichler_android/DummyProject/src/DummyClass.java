@@ -17,8 +17,12 @@ public class DummyClass {
 
 			System.out.println(i);
 			
+
 			//new LoC
 			int anotherNewLineOfCode;
+
+			System.out.println("fixes the bug");
+
 		}
 	}
 }
