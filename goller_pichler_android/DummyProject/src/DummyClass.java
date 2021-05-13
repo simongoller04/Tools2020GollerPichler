@@ -6,5 +6,10 @@ public class DummyClass {
 		System.out.println("Hallo Lukas");
 	}
 	
-	public void thisIsANewMethod() { }
+	public void thisIsANewMethod() { 
+		int counter = 0;
+		for (int i=0;i<=10;i++) {
+			System.out.println(i);
+		}
+	}
 }
