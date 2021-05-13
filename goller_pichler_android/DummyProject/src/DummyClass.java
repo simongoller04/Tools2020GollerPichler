@@ -14,7 +14,8 @@ public class DummyClass {
 			System.out.println("Hallo");
 
 			System.out.println(i);
-
+			
+			System.out.println("fixes the bug");
 		}
 	}
 }
