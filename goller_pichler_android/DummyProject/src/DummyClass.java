@@ -4,6 +4,8 @@ public class DummyClass {
 	public void existing(){
 		System.out.print("Existing Method");
 		System.out.println("Hallo Lukas");
+		//new LoC
+		int newLineOfCode;
 	}
 	
 	public void thisIsANewMethod() { 
@@ -14,7 +16,9 @@ public class DummyClass {
 			System.out.println("Hallo");
 
 			System.out.println(i);
-
+			
+			//new LoC
+			int anotherNewLineOfCode;
 		}
 	}
 }
